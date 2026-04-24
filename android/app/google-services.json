@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126894209530",
+    "project_id": "smart-grid-notifications",
+    "storage_bucket": "smart-grid-notifications.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126894209530:android:2f5b34832768f408a0cc43",
+        "android_client_info": {
+          "package_name": "com.smartgrid.lineman_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR0IEOQHUuCnssXy0QSqsc-fBYrNZpqv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
